@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D2F898-9A8A-4B51-BD61-3D660AF295E3}|MauiCalculatorApp\\MauiCalculatorApp.csproj|c:\\users\\user\\source\\repos\\mauicalculatorapp\\mauicalculatorapp\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{33D2F898-9A8A-4B51-BD61-3D660AF295E3}|MauiCalculatorApp\\MauiCalculatorApp.csproj|solutionrelative:mauicalculatorapp\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D2F898-9A8A-4B51-BD61-3D660AF295E3}|MauiCalculatorApp\\MauiCalculatorApp.csproj|c:\\users\\user\\source\\repos\\mauicalculatorapp\\mauicalculatorapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33D2F898-9A8A-4B51-BD61-3D660AF295E3}|MauiCalculatorApp\\MauiCalculatorApp.csproj|solutionrelative:mauicalculatorapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D2F898-9A8A-4B51-BD61-3D660AF295E3}|MauiCalculatorApp\\MauiCalculatorApp.csproj|c:\\users\\user\\source\\repos\\mauicalculatorapp\\mauicalculatorapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33D2F898-9A8A-4B51-BD61-3D660AF295E3}|MauiCalculatorApp\\MauiCalculatorApp.csproj|solutionrelative:mauicalculatorapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D2F898-9A8A-4B51-BD61-3D660AF295E3}|MauiCalculatorApp\\MauiCalculatorApp.csproj|c:\\users\\user\\source\\repos\\mauicalculatorapp\\mauicalculatorapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D2F898-9A8A-4B51-BD61-3D660AF295E3}|MauiCalculatorApp\\MauiCalculatorApp.csproj|solutionrelative:mauicalculatorapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\MauiCalculatorApp\\Readme.md",
+              "RelativeDocumentMoniker": "MauiCalculatorApp\\Readme.md",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\MauiCalculatorApp\\Readme.md",
+              "RelativeToolTip": "MauiCalculatorApp\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-06T00:29:07.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\MauiCalculatorApp\\App.xaml",
+              "RelativeDocumentMoniker": "MauiCalculatorApp\\App.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\MauiCalculatorApp\\App.xaml",
+              "RelativeToolTip": "MauiCalculatorApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T22:32:56.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\MauiCalculatorApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiCalculatorApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\MauiCalculatorApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiCalculatorApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:26:36.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\MauiCalculatorApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiCalculatorApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\MauiCalculatorApp\\MainPage.xaml",
+              "RelativeToolTip": "MauiCalculatorApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T22:25:26.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

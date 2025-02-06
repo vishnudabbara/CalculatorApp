@@ -1,0 +1,56 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="MauiCalculatorApp.MainPage"
+             BackgroundColor="#1c1c1c">
+
+    <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto" ColumnDefinitions="*,*,*,*">
+        <!-- Expression Display -->
+        <Label x:Name="ExpressionLabel"
+               Grid.Row="0" Grid.ColumnSpan="4"
+               HorizontalOptions="End"
+               VerticalOptions="Center"
+               FontSize="36"
+               TextColor="Gray"
+               Padding="20"
+               Text=""/>
+
+        <!-- Result Display -->
+        <Label x:Name="DisplayLabel"
+               Grid.Row="1" Grid.ColumnSpan="4"
+               HorizontalOptions="End"
+               VerticalOptions="Center"
+               FontSize="72"
+               TextColor="White"
+               Padding="20"
+               Text="0"/>
+
+        <!-- Row 1 -->
+        <Button Text="AC" Grid.Row="2" Grid.Column="0" Style="{StaticResource ButtonStyle}" Clicked="OnClearClicked"/>
+        <Button Text="+/-" Grid.Row="2" Grid.Column="1" Style="{StaticResource ButtonStyle}" Clicked="OnNegateClicked"/>
+        <Button Text="%" Grid.Row="2" Grid.Column="2" Style="{StaticResource ButtonStyle}" Clicked="OnOperatorClicked"/>
+        <Button Text="/" Grid.Row="2" Grid.Column="3" Style="{StaticResource OperatorButtonStyle}" Clicked="OnOperatorClicked"/>
+
+        <!-- Row 2 -->
+        <Button Text="7" Grid.Row="3" Grid.Column="0" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="8" Grid.Row="3" Grid.Column="1" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="9" Grid.Row="3" Grid.Column="2" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="*" Grid.Row="3" Grid.Column="3" Style="{StaticResource OperatorButtonStyle}" Clicked="OnOperatorClicked"/>
+
+        <!-- Row 3 -->
+        <Button Text="4" Grid.Row="4" Grid.Column="0" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="5" Grid.Row="4" Grid.Column="1" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="6" Grid.Row="4" Grid.Column="2" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="-" Grid.Row="4" Grid.Column="3" Style="{StaticResource OperatorButtonStyle}" Clicked="OnOperatorClicked"/>
+
+        <!-- Row 4 -->
+        <Button Text="1" Grid.Row="5" Grid.Column="0" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="2" Grid.Row="5" Grid.Column="1" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="3" Grid.Row="5" Grid.Column="2" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="+" Grid.Row="5" Grid.Column="3" Style="{StaticResource OperatorButtonStyle}" Clicked="OnOperatorClicked"/>
+
+        <!-- Row 5 -->
+        <Button Text="0" Grid.Row="6" Grid.Column="1"  Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="." Grid.Row="6" Grid.Column="2" Style="{StaticResource ButtonStyle}" Clicked="OnNumberClicked"/>
+        <Button Text="=" Grid.Row="6" Grid.Column="3" Style="{StaticResource EqualButtonStyle}" Clicked="OnEqualClicked"/>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,38 @@
+﻿<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="MauiCalculatorApp.App">
+
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <!-- Button Styles -->
+            <Style x:Key="ButtonStyle" TargetType="Button">
+                <Setter Property="HeightRequest" Value="80"/>
+                <Setter Property="WidthRequest" Value="80"/>
+                <Setter Property="FontSize" Value="32"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="BackgroundColor" Value="#2d2d2d"/>
+                <Setter Property="CornerRadius" Value="40"/>
+            </Style>
+
+            <Style x:Key="OperatorButtonStyle" TargetType="Button">
+                <Setter Property="HeightRequest" Value="80"/>
+                <Setter Property="WidthRequest" Value="80"/>
+                <Setter Property="FontSize" Value="32"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="BackgroundColor" Value="#FF9500"/>
+                <Setter Property="CornerRadius" Value="40"/>
+            </Style>
+
+            <Style x:Key="EqualButtonStyle" TargetType="Button">
+                <Setter Property="HeightRequest" Value="80"/>
+                <Setter Property="WidthRequest" Value="80"/>
+                <Setter Property="FontSize" Value="32"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="BackgroundColor" Value="#34C759"/>
+                <Setter Property="CornerRadius" Value="40"/>
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
