@@ -1,7 +1,8 @@
 # CalculatorApp
 Cross Platform Calculator App
 # MauiCalculatorApp
-
+![Image](https://github.com/user-attachments/assets/5ca71dfe-90c8-431a-9137-51ed9474abeb)
+![Image](https://github.com/user-attachments/assets/057ae098-edd7-4e55-b8e6-9703904b70d3)
 MauiCalculatorApp is a cross-platform calculator application built using .NET MAUI (Multi-platform App UI). 
 It provides basic arithmetic functionalities such as addition, subtraction, multiplication, and division. 
 This application is designed to run on multiple platforms, including Android, iOS, macOS, and Windows,
