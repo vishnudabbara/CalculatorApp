@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiCalculatorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+14772dd215d8ff051d2855b0c48a02bb598dc9c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+abedb3bfb28b7c2cbc0df395ee034fced6c4152e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiCalculatorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiCalculatorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

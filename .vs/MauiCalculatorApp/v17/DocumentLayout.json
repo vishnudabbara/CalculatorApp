@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "MauiCalculatorApp\\Readme.md",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\MauiCalculatorApp\\MauiCalculatorApp\\Readme.md",
               "RelativeToolTip": "MauiCalculatorApp\\Readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBUAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-02-06T00:29:07.861Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "MauiCalculatorApp\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-05T22:32:56.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T22:32:56.638Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "MauiCalculatorApp\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T22:26:36.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T22:26:36.307Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "MauiCalculatorApp\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-05T22:25:26.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T22:25:26.838Z"
             }
           ]
         }
